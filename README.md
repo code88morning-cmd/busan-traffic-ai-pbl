@@ -17,7 +17,7 @@
 > 본 프로젝트는 학습 및 포트폴리오 목적의 PBL 프로젝트입니다. 실제 교통 행정 의사결정, 상용 예측 서비스, 공공기관 운영 시스템을 대체하지 않습니다.
 >
 ---
- ## Preview
+ ## 0. Preview
 
 - [Dynamic Dashboard Preview](docs/preview.html)
 - [Streamlit App Source](app/streamlit_app.py)
