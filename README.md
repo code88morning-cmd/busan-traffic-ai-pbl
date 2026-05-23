@@ -1,6 +1,16 @@
 # Busan Traffic AI PBL
 
 ![Busan Traffic AI PBL Preview](docs/images/busan-traffic-ai-pbl-preview.png)
+![Busan Traffic AI PBL Preview](docs/images/busan-traffic-ai-pbl-dashboard.png)
+
+
+## Preview
+
+- [Dynamic Dashboard Preview](docs/preview.html)
+- [Streamlit App Source](app/streamlit_app.py)
+
+> `docs/preview.html`은 브라우저에서 바로 열 수 있는 동적 HTML 대시보드 목업입니다.  
+> 실제 Streamlit 실행 화면은 `streamlit run app/streamlit_app.py` 실행 후 확인합니다.
 
 공공데이터 기반 **부산시 교통량 예측 AI 웹서비스 개발 PBL 프로젝트**입니다.
 
